@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Living Benefits]]></title>
-        <description><![CDATA[Living Benefits]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Be a HERO]]></title>
+        <description><![CDATA[Be a HERO]]></description>
+        <link>https://thegrid.ai/living-benefits/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:20:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 19:24:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/living-benefits/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d613e6e8-3f91-47e0-9b44-dd356a98ade7.png">]]></description>
+            <link>https://thegrid.ai/living-benefits/50f17f90-79c2-4024-a420-db7d9873ffce/index.html</link>
+            <guid isPermaLink="false">50f17f90-79c2-4024-a420-db7d9873ffce</guid>
+            <pubDate>Tue, 09 Feb 2016 19:24:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We’re all a superhero to someone.]]></title>
-            <description><![CDATA[<article><h1>We’re all a superhero to someone.</h1><p>We all want to provide love and protection to those that depend on us for everything. One of the main attributes of the typical hero is to provide help when it’s most needed.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7530b8cc-c879-4b72-8c0d-2ba18597f08c.jpg"></article>]]></description>
-            <link>undefinedd68550ea-6fc3-4c4c-a62f-4a83ac5c35a9/index.html</link>
+            <description><![CDATA[<article><h1>We’re all a superhero to someone.</h1><p>We all want to provide love and protection to those that depend on us for everything. One of the main attributes of the typical hero is to provide help when it’s most needed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4e8968c07f0f274a4547e0987f4bdea0a0b2b5b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/living-benefits/d68550ea-6fc3-4c4c-a62f-4a83ac5c35a9/index.html</link>
             <guid isPermaLink="false">d68550ea-6fc3-4c4c-a62f-4a83ac5c35a9</guid>
             <pubDate>Tue, 09 Feb 2016 19:18:27 GMT</pubDate>
         </item>
